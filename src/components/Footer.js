@@ -62,7 +62,7 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Latest Stories HERE
                       </Link>
                     </li>
                     <li>
@@ -96,7 +96,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                <a title="vimeo" href="https://vimeo007.com">
                   <img
                     src={vimeo}
                     alt="Vimeo"
